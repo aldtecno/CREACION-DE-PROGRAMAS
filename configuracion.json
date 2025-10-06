@@ -1,0 +1,17 @@
+{
+  "hospital": "Nuestra Señora de las Mercedes",
+  "contact_number": "3138899808",
+  "institutional_email": "urgenciasaladoblanco@yahoo.com",
+  "documents_folder": "~/Documents",
+  "compose_wait_seconds": 8.5,
+  "recipients": [
+    {
+      "email": "referenciaycontrarreferencia2@hospitalpitalito.gov.co",
+      "label": "Hospital Pitalito"
+    },
+    {
+      "email": "referenciaycontrarreferencia@clinicareinaisabel.com",
+      "label": "Referencia Ycontrareferencia"
+    }
+  ]
+}
